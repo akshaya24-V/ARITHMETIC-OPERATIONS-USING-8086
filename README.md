@@ -54,10 +54,14 @@ END
 ```
 
 #### Output Table
-
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|           1200          |          68              |
+|           1201          |         24               |
+|           1202          |          00              |
+|           1203          |        E8                |
+|           1204          |      8C                  |
+
 
 #### Manual Calculations
 
@@ -108,7 +112,14 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|        1200             |   00                     |
+|           1201          |       00                 |
+|           1202          |     18                   |
+|           1203          |   12                     |
+|           1204          |   8C                     |
+|           1205          |        62                |
+
+
 
 #### Manual Calculations
 
@@ -157,10 +168,17 @@ END
 ```
 
 #### Output Table
-
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         2000            |      31                  |
+|         2001            |      12                  |
+|         2002            |      34                  |
+|         2003            |      12                  |
+|         2004            |      90                  |
+|         2005            |      5A                  |
+|         2006            |      4B                  |
+|         2007            |      01                  |
+
 
 #### Manual Calculations
 ![WhatsApp Image 2025-09-22 at 08 32 25_1629ab38](https://github.com/user-attachments/assets/088787a5-1ff1-4906-abf4-32185d262f73)
@@ -206,7 +224,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         2000            |            34            |
+|         2001            |            12            |
+|         2002            |            34            |
+|         2003            |            12            |
+|         2004            |            00            |
+|         2005            |            00            |
+|         2006            |            00            |
+
+
 
 #### Manual Calculations
 
